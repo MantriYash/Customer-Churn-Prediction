@@ -20,8 +20,8 @@ By leveraging machine learning, we aim to help businesses:
 - The target variable is **Churn**, which indicates whether a customer has left the service or not.
 
 # Deliverables
-1️**Data Preprocessing** - Analyze the dataset, handle missing values, perform feature engineering, and prepare data for modeling.
-2️**Machine Learning Model** - Train classification models, tune hyperparameters, and evaluate performance using metrics like accuracy, precision, recall, and F1-score.
+1**Data Preprocessing** - Analyze the dataset, handle missing values, perform feature engineering, and prepare data for modeling.
+2**Machine Learning Model** - Train classification models, tune hyperparameters, and evaluate performance using metrics like accuracy, precision, recall, and F1-score.
 
 ## Tools & Technologies Used
 - **Programming Language:** Python
